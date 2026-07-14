@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "odict": {
+      "command": "node",
+      "args": [
+        "odict-mcp-server/build/index.js"
+      ],
+      "directTools": true
+    }
+  }
+}

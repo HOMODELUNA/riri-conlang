@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary id="riri" name="Riri Dictionary">
+  <entry term="tsri">
+    <ety description="投下矛/鱼叉">
+      <sense pos="v">
+        <definition id="tsri-1" value="投下矛/鱼叉">
+          <example value="a tsri biri" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="tsri daa">
+    <ety description="命中">
+      <sense pos="v">
+        <definition id="tsri-daa-1" value="命中">
+          <example value="a tsri daa biri" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="luh">
+    <ety description="船">
+      <sense pos="n">
+        <definition id="luh-1" value="船">
+          <example value="alís kuvin luh" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="luuh">
+    <ety description="家庭">
+      <sense pos="n">
+        <definition id="luuh-1" value="家庭">
+          <example value="luuh a" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="voluh">
+    <ety description="链接的船">
+      <sense pos="n">
+        <definition id="voluh-1" value="链接的船">
+          <example value="voluh a" />
+        </definition>
+        <definition id="voluh-2" value="社区（引申）">
+          <example value="voluh amra" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="kuvin">
+    <ety description="(船)停泊">
+      <sense pos="v">
+        <definition id="kuvin-1" value="(船)停泊">
+          <example value="luh kuvin" />
+          <example value="alís kuvin luh" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="gro">
+    <ety description="吃">
+      <sense pos="v">
+        <definition id="gro-1" value="吃">
+          <example value="alís gro biri" />
+          <example value="a gro" />
+          <example value="a du gro" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="biri">
+    <ety description="鱼">
+      <sense pos="n">
+        <definition id="biri-1" value="鱼">
+          <example value="alís gro biri" />
+          <example value="a tsri daa biri mra" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="hana">
+    <ety description="周围；一旁；旁侧">
+      <sense pos="n">
+        <definition id="hana-1" value="周围；一旁；旁侧">
+          <example value="allik kuvin hana luh" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="a">
+    <ety description="我">
+      <sense pos="pron">
+        <definition id="a-1" value="我">
+          <example value="a gro" />
+          <example value="a du gro" />
+          <example value="a tsri daa biri mra" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="ye">
+    <ety description="他；那个">
+      <sense pos="pron">
+        <definition id="ye-1" value="他；那个">
+          <example value="ye gro biri" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="du">
+    <ety description="不">
+      <sense pos="adv">
+        <definition id="du-1" value="不">
+          <example value="a du gro" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="lik">
+    <ety description="二；两">
+      <sense pos="num">
+        <definition id="lik-1" value="二；两">
+          <example value="lik a" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="allik">
+    <ety description="我们两个（lik + a 衍生）">
+      <sense pos="pron">
+        <definition id="allik-1" value="我们两个">
+          <example value="allik kuvin hana luh" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="mra">
+    <ety description="大量；很多；群；群组">
+      <sense pos="quant">
+        <definition id="mra-1" value="大量；很多；群；群组">
+          <example value="a tsri daa biri mra" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="amra">
+    <ety description="我们（三个以上，a + mra 衍生）">
+      <sense pos="pron">
+        <definition id="amra-1" value="我们（三个以上）">
+          <example value="voluh amra" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+</dictionary>

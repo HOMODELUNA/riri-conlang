@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary name="Animal Dictionary">
+  <entry term="cat">
+    <ety description="From Latin cattus">
+      <sense pos="n">
+        <definition value="A small domesticated carnivorous mammal with soft fur">
+          <example value="The cat sat on the mat." />
+          <example value="She adopted two cats from the shelter." />
+        </definition>
+        <definition value="(informal) A person, especially a man">
+          <example value="He's a cool cat." />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="dog">
+    <ety description="From Old English docga">
+      <sense pos="n">
+        <definition value="A domesticated carnivorous mammal kept as a pet or for work">
+          <example value="The dog fetched the ball." />
+        </definition>
+      </sense>
+      <sense pos="v">
+        <definition value="To follow someone closely and persistently">
+          <example value="Reporters dogged the politician." />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="kitty" see="cat" />
+</dictionary>
