@@ -4,6 +4,27 @@
 
 ---
 
+## 项目结构
+
+```
+riri/
+├── AGENTS.md          # 本文件
+├── README.md          # 项目说明
+├── loops/             # 设计讨论记录
+├── tests.md           # 工具测试记录
+├── odict.xsd          # 词表 XML 格式规范
+├── animals.xml        # 示例词表（动物）
+├── riri.odict         # Riri 词表（odict 格式）
+├── riri.xml           # Riri 词表（XML 格式）
+├── grammar/
+│   └── README.md      # 语法说明
+├── culture/
+│   └── README.md      # 文化背景
+└── odict-mcp-server/  # odict MCP 服务器（工具）
+```
+
+---
+
 ## 螺旋驱动的造语
 
 Riri 的构建采用**螺旋驱动**的工作流：每次讨论产生一个 **loop**，包含语法、文化、词语、例句的设计，然后对应更新各项目文件。
