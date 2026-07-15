@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary id="riri" name="Riri Dictionary">
+
+  <!-- ===== 原有词条（含 loop2 更新） ===== -->
+
   <entry term="tsri">
     <ety description="投下矛/鱼叉">
       <sense pos="v">
@@ -21,20 +24,24 @@
   </entry>
 
   <entry term="luh">
-    <ety description="船">
+    <ety description="船；房子；居所">
       <sense pos="n">
         <definition id="luh-1" value="船">
           <example value="alís kuvin luh" />
+        </definition>
+        <definition id="luh-2" value="房子；居所">
+          <example value="ye dis luh, du luuh" />
         </definition>
       </sense>
     </ety>
   </entry>
 
   <entry term="luuh">
-    <ety description="家庭">
+    <ety description="家庭；家">
       <sense pos="n">
-        <definition id="luuh-1" value="家庭">
+        <definition id="luuh-1" value="家庭；家">
           <example value="luuh a" />
+          <example value="ye dis luh, du luuh" />
         </definition>
       </sense>
     </ety>
@@ -48,6 +55,7 @@
         </definition>
         <definition id="voluh-2" value="社区（引申）">
           <example value="voluh amra" />
+          <example value="voluh nu das lumar decu" />
         </definition>
       </sense>
     </ety>
@@ -71,6 +79,8 @@
           <example value="alís gro biri" />
           <example value="a gro" />
           <example value="a du gro" />
+          <example value="ye vik gro biri nikul" />
+          <example value="ye gro vik biri nikul" />
         </definition>
       </sense>
     </ety>
@@ -82,6 +92,8 @@
         <definition id="biri-1" value="鱼">
           <example value="alís gro biri" />
           <example value="a tsri daa biri mra" />
+          <example value="ye vik gro biri nikul" />
+          <example value="a nuly biri" />
         </definition>
       </sense>
     </ety>
@@ -104,6 +116,8 @@
           <example value="a gro" />
           <example value="a du gro" />
           <example value="a tsri daa biri mra" />
+          <example value="a nuly biri" />
+          <example value="a nua" />
         </definition>
       </sense>
     </ety>
@@ -114,6 +128,8 @@
       <sense pos="pron">
         <definition id="ye-1" value="他；那个">
           <example value="ye gro biri" />
+          <example value="ye dis luh, du luuh" />
+          <example value="ye vik gro biri nikul" />
         </definition>
       </sense>
     </ety>
@@ -124,17 +140,19 @@
       <sense pos="adv">
         <definition id="du-1" value="不">
           <example value="a du gro" />
+          <example value="ye dis luh, du luuh" />
         </definition>
       </sense>
     </ety>
   </entry>
 
   <entry term="lik">
-    <ety description="二；两">
+    <ety description="二；(右手)(古)，手臂；次位；次要的；有力气的(古)；二把手(非正式)；左膀右臂(非正式)；挥动(手臂)(古)">
       <sense pos="num">
         <definition id="lik-1" value="二；两">
           <example value="lik a" />
         </definition>
+        <definition id="lik-2" value="(右手)(古)，手臂；次位；次要的；有力气的(古)；二把手(非正式)；左膀右臂(非正式)；挥动(手臂)(古)" />
       </sense>
     </ety>
   </entry>
@@ -150,20 +168,264 @@
   </entry>
 
   <entry term="mra">
-    <ety description="大量；很多；群；群组">
+    <ety description="大量；很多；群；群组；海(古)">
       <sense pos="quant">
         <definition id="mra-1" value="大量；很多；群；群组">
           <example value="a tsri daa biri mra" />
         </definition>
+        <definition id="mra-2" value="海(古)" />
       </sense>
     </ety>
   </entry>
 
   <entry term="amra">
-    <ety description="我们（三个以上，a + mra 衍生）">
+    <ety description="我们（六个以上，多数，a + mra 衍生）">
       <sense pos="pron">
-        <definition id="amra-1" value="我们（三个以上）">
+        <definition id="amra-1" value="我们（六个以上，多数）">
           <example value="voluh amra" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <!-- ===== loop2 新增词条 ===== -->
+
+  <entry term="nu">
+    <ety description="你；这个">
+      <sense pos="pron">
+        <definition id="nu-1" value="你；这个">
+          <example value="voluh nu das lumar decu" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="aw">
+    <ety description="一，第一，一个；头(古)；首位；重要；首领；颔(首)(古)">
+      <sense pos="num">
+        <definition id="aw-1" value="一；第一；一个" />
+        <definition id="aw-2" value="头(古)；首位；重要；首领；颔(首)(古)" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="vik">
+    <ety description="三；(左手)(古)，手臂；不常用的(古)">
+      <sense pos="num">
+        <definition id="vik-1" value="三">
+          <example value="ye vik gro biri nikul" />
+          <example value="ye gro vik biri nikul" />
+        </definition>
+        <definition id="vik-2" value="(左手)(古)，手臂；不常用的(古)" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="fu">
+    <ety description="四；(右足)(古)，整条腿(古)；卖力的，吃苦耐劳的(古)；走路(古)">
+      <sense pos="num">
+        <definition id="fu-1" value="四" />
+        <definition id="fu-2" value="(右足)(古)，整条腿(古)；卖力的，吃苦耐劳的(古)；走路(古)" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="max">
+    <ety description="五；(左足)(古)，整条腿(古)">
+      <sense pos="num">
+        <definition id="max-1" value="五" />
+        <definition id="max-2" value="(左足)(古)，整条腿(古)" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="les">
+    <ety description="六；尾巴(古)；末尾；末尾的；结尾；结束(古)；无名小卒(非正式)；轻视(古)；摆动(尾巴、身体等)(古)">
+      <sense pos="num">
+        <definition id="les-1" value="六" />
+        <definition id="les-2" value="尾巴(古)；末尾；末尾的；结尾；结束(古)；无名小卒(非正式)；轻视(古)；摆动(尾巴、身体等)(古)" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="fuha">
+    <ety description="走路；行走">
+      <sense pos="v">
+        <definition id="fuha-1" value="走路；行走" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="raha">
+    <ety description="游泳；进入">
+      <sense pos="v">
+        <definition id="raha-1" value="游泳；进入">
+          <example value="a nuly biri raha nulir" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="daa">
+    <ety description="捕获(古)；准确；中心；目标；得到(古)">
+      <sense pos="v">
+        <definition id="daa-1" value="捕获(古)；得到(古)" />
+        <definition id="daa-2" value="准确；中心；目标" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="das">
+    <ety description="存在，拥有">
+      <sense pos="v">
+        <definition id="das-1" value="存在；拥有">
+          <example value="voluh nu das lumar decu" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="podas">
+    <ety description="获得">
+      <sense pos="v">
+        <definition id="podas-1" value="获得" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="po">
+    <ety description="使，让，令(古)">
+      <sense pos="v">
+        <definition id="po-1" value="使，让，令(古)" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="phot">
+    <ety description="差遣；使；让；令">
+      <sense pos="v">
+        <definition id="phot-1" value="差遣；使；让；令" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="potsri">
+    <ety description="教唆">
+      <sense pos="v">
+        <definition id="potsri-1" value="教唆" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="decu">
+    <ety description="天空(古)；庞大的；体量大的">
+      <sense pos="n">
+        <definition id="decu-1" value="天空(古)" />
+        <definition id="decu-2" value="庞大的；体量大的">
+          <example value="voluh nu das lumar decu" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="nikul">
+    <ety description="烤；烤制的；火焰(古)">
+      <sense pos="v">
+        <definition id="nikul-1" value="烤；烤制的">
+          <example value="ye vik gro biri nikul" />
+          <example value="ye gro vik biri nikul" />
+        </definition>
+        <definition id="nikul-2" value="火焰(古)" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="nia">
+    <ety description="火">
+      <sense pos="n">
+        <definition id="nia-1" value="火" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="deuh">
+    <ety description="天空">
+      <sense pos="n">
+        <definition id="deuh-1" value="天空" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="mray">
+    <ety description="海洋">
+      <sense pos="n">
+        <definition id="mray-1" value="海洋" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="nua">
+    <ety description="学生；徒弟">
+      <sense pos="n">
+        <definition id="nua-1" value="学生；徒弟">
+          <example value="a nua" />
+          <example value="nua a" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="nulir">
+    <ety description="装起来(古)；口袋；归有(古)；学生(古)；晚辈(古)">
+      <sense pos="n">
+        <definition id="nulir-1" value="口袋" />
+        <definition id="nulir-2" value="装起来(古)；归有(古)；学生(古)；晚辈(古)" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="nuly">
+    <ety description="装起来；打包；装(进容器/口袋等)">
+      <sense pos="v">
+        <definition id="nuly-1" value="装起来；打包；装(进容器/口袋等)">
+          <example value="a nuly biri" />
+          <example value="a nuly biri raha nulir" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="mrara">
+    <ety description="全部；所有">
+      <sense pos="quant">
+        <definition id="mrara-1" value="全部；所有" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="dis">
+    <ety description="少量；几个；很少；仅仅">
+      <sense pos="quant">
+        <definition id="dis-1" value="少量；几个；很少；仅仅">
+          <example value="ye dis luh, du luuh" />
+        </definition>
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="dissy">
+    <ety description="没有；无；不(古)">
+      <sense pos="adv">
+        <definition id="dissy-1" value="没有；无；不(古)" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="lumar">
+    <ety description="家族（合成词，直译为大量船只）">
+      <sense pos="n">
+        <definition id="lumar-1" value="家族（合成词，直译为大量船只）">
+          <example value="voluh nu das lumar decu" />
         </definition>
       </sense>
     </ety>
