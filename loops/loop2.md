@@ -84,13 +84,13 @@ nia：火
 
 deuh：天空
 
-mray：海洋
+mrai：海洋
 
 nua：学生；徒弟
 
 nulir：装起来(古)；口袋；归有(古)；学生(古)；晚辈(古)
 
-nuly：装起来；打包；装(进容器/口袋等)
+nuli：装起来；打包；装(进容器/口袋等)
 
 ### 句子
 
@@ -102,7 +102,7 @@ nuly：装起来；打包；装(进容器/口袋等)
 
 他吃了三份烤鱼 Ye gro vik biri nikul.
 
-我把鱼装进口袋 A nuly biri / A nuly biri raha nulir
+我把鱼装进口袋 A nuli biri / A nuli biri raha nulir
 
 我是学生 A nua
 

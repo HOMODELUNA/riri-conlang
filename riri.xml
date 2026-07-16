@@ -93,7 +93,7 @@
           <example value="alís gro biri" />
           <example value="a tsri daa biri mra" />
           <example value="ye vik gro biri nikul" />
-          <example value="a nuly biri" />
+          <example value="a nuli biri" />
         </definition>
       </sense>
     </ety>
@@ -116,7 +116,7 @@
           <example value="a gro" />
           <example value="a du gro" />
           <example value="a tsri daa biri mra" />
-          <example value="a nuly biri" />
+          <example value="a nuli biri" />
           <example value="a nua" />
         </definition>
       </sense>
@@ -260,7 +260,7 @@
     <ety description="游泳；进入">
       <sense pos="v">
         <definition id="raha-1" value="游泳；进入">
-          <example value="a nuly biri raha nulir" />
+          <example value="a nuli biri raha nulir" />
         </definition>
       </sense>
     </ety>
@@ -356,10 +356,10 @@
     </ety>
   </entry>
 
-  <entry term="mray">
+  <entry term="mrai">
     <ety description="海洋">
       <sense pos="n">
-        <definition id="mray-1" value="海洋" />
+        <definition id="mrai-1" value="海洋" />
       </sense>
     </ety>
   </entry>
@@ -384,12 +384,12 @@
     </ety>
   </entry>
 
-  <entry term="nuly">
+  <entry term="nuli">
     <ety description="装起来；打包；装(进容器/口袋等)">
       <sense pos="v">
-        <definition id="nuly-1" value="装起来；打包；装(进容器/口袋等)">
-          <example value="a nuly biri" />
-          <example value="a nuly biri raha nulir" />
+        <definition id="nuli-1" value="装起来；打包；装(进容器/口袋等)">
+          <example value="a nuli biri" />
+          <example value="a nuli biri raha nulir" />
         </definition>
       </sense>
     </ety>
