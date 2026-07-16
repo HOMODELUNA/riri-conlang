@@ -55,7 +55,7 @@
         </definition>
         <definition id="voluh-2" value="社区（引申）">
           <example value="voluh amra" />
-          <example value="voluh nu das lumar decu" />
+          <example value="voluh nu das lumar detsu" />
         </definition>
       </sense>
     </ety>
@@ -194,7 +194,7 @@
     <ety description="你；这个">
       <sense pos="pron">
         <definition id="nu-1" value="你；这个">
-          <example value="voluh nu das lumar decu" />
+          <example value="voluh nu das lumar detsu" />
         </definition>
       </sense>
     </ety>
@@ -230,11 +230,11 @@
     </ety>
   </entry>
 
-  <entry term="max">
+  <entry term="mah">
     <ety description="五；(左足)(古)，整条腿(古)">
       <sense pos="num">
-        <definition id="max-1" value="五" />
-        <definition id="max-2" value="(左足)(古)，整条腿(古)" />
+        <definition id="mah-1" value="五" />
+        <definition id="mah-2" value="(左足)(古)，整条腿(古)" />
       </sense>
     </ety>
   </entry>
@@ -279,7 +279,7 @@
     <ety description="存在，拥有">
       <sense pos="v">
         <definition id="das-1" value="存在；拥有">
-          <example value="voluh nu das lumar decu" />
+          <example value="voluh nu das lumar detsu" />
         </definition>
       </sense>
     </ety>
@@ -301,10 +301,10 @@
     </ety>
   </entry>
 
-  <entry term="phot">
+  <entry term="pot">
     <ety description="差遣；使；让；令">
       <sense pos="v">
-        <definition id="phot-1" value="差遣；使；让；令" />
+        <definition id="pot-1" value="差遣；使；让；令" />
       </sense>
     </ety>
   </entry>
@@ -317,12 +317,12 @@
     </ety>
   </entry>
 
-  <entry term="decu">
+  <entry term="detsu">
     <ety description="天空(古)；庞大的；体量大的">
       <sense pos="n">
-        <definition id="decu-1" value="天空(古)" />
-        <definition id="decu-2" value="庞大的；体量大的">
-          <example value="voluh nu das lumar decu" />
+        <definition id="detsu-1" value="天空(古)" />
+        <definition id="detsu-2" value="庞大的；体量大的">
+          <example value="voluh nu das lumar detsu" />
         </definition>
       </sense>
     </ety>
@@ -413,10 +413,10 @@
     </ety>
   </entry>
 
-  <entry term="dissy">
+  <entry term="dissi">
     <ety description="没有；无；不(古)">
       <sense pos="adv">
-        <definition id="dissy-1" value="没有；无；不(古)" />
+        <definition id="dissi-1" value="没有；无；不(古)" />
       </sense>
     </ety>
   </entry>
@@ -425,7 +425,7 @@
     <ety description="家族（合成词，直译为大量船只）">
       <sense pos="n">
         <definition id="lumar-1" value="家族（合成词，直译为大量船只）">
-          <example value="voluh nu das lumar decu" />
+          <example value="voluh nu das lumar detsu" />
         </definition>
       </sense>
     </ety>
