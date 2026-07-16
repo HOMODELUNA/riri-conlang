@@ -431,4 +431,202 @@
     </ety>
   </entry>
 
+  <!-- ===== loop3 新增词条 ===== -->
+
+  <entry term="me">
+    <ety description="(未完成体标记)正在进行">
+      <sense pos="adv">
+        <definition id="me-1" value="(未完成体标记)正在进行" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="e">
+    <ety description="(未完成体标记)正在进行，前词以辅音结尾时用">
+      <sense pos="adv">
+        <definition id="e-1" value="(未完成体标记)正在进行，前词以辅音结尾时用" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="dun">
+    <ety description="(完成体标记)置于词前">
+      <sense pos="adv">
+        <definition id="dun-1" value="(完成体标记)置于词前" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="yum">
+    <ety description="(时间)天">
+      <sense pos="n">
+        <definition id="yum-1" value="(时间)天" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="nayum">
+    <ety description="今天">
+      <sense pos="n">
+        <definition id="nayum-1" value="今天" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="huyum">
+    <ety description="昨天 (hui + yum)">
+      <sense pos="n">
+        <definition id="huyum-1" value="昨天" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="hui">
+    <ety description="上一个">
+      <sense pos="adv">
+        <definition id="hui-1" value="上一个" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="menyum">
+    <ety description="明天 (meno + yum)">
+      <sense pos="n">
+        <definition id="menyum-1" value="明天" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="kro">
+    <ety description="虎口(手)；蛾眉月">
+      <sense pos="n">
+        <definition id="kro-1" value="虎口(手)" />
+        <definition id="kro-2" value="蛾眉月" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="keri">
+    <ety description="拳爪；凸月型">
+      <sense pos="n">
+        <definition id="keri-1" value="拳爪" />
+        <definition id="keri-2" value="凸月型" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="zufu">
+    <ety description="四分之一；上/下弦月(形状)">
+      <sense pos="n">
+        <definition id="zufu-1" value="四分之一" />
+        <definition id="zufu-2" value="上/下弦月(形状)" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="tef">
+    <ety description="左">
+      <sense pos="n">
+        <definition id="tef-1" value="左" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="wi">
+    <ety description="右">
+      <sense pos="n">
+        <definition id="wi-1" value="右" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="wikro">
+    <ety description="峨眉月 (wi + kro)">
+      <sense pos="n">
+        <definition id="wikro-1" value="峨眉月" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="tefkro">
+    <ety description="残月 (tef + kro)">
+      <sense pos="n">
+        <definition id="tefkro-1" value="残月" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="wizufu">
+    <ety description="上弦月 (wi + zufu)">
+      <sense pos="n">
+        <definition id="wizufu-1" value="上弦月" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="tevzufu">
+    <ety description="下弦月 (tef + zufu)">
+      <sense pos="n">
+        <definition id="tevzufu-1" value="下弦月" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="wikeri">
+    <ety description="盈凸月 (wi + keri)">
+      <sense pos="n">
+        <definition id="wikeri-1" value="盈凸月" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="tefkeri">
+    <ety description="亏凸月 (tef + keri)">
+      <sense pos="n">
+        <definition id="tefkeri-1" value="亏凸月" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="meno">
+    <ety description="朔月">
+      <sense pos="n">
+        <definition id="meno-1" value="朔月" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="rai">
+    <ety description="望月；满；完整">
+      <sense pos="n">
+        <definition id="rai-1" value="望月" />
+        <definition id="rai-2" value="满；完整" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="rahamrei">
+    <ety description="赶海 (raha + mrai)">
+      <sense pos="v">
+        <definition id="rahamrei-1" value="赶海" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="zir">
+    <ety description="钓鱼">
+      <sense pos="v">
+        <definition id="zir-1" value="钓鱼" />
+      </sense>
+    </ety>
+  </entry>
+
+  <entry term="mrazir">
+    <ety description="钓鱼竿架">
+      <sense pos="n">
+        <definition id="mrazir-1" value="钓鱼竿架" />
+      </sense>
+    </ety>
+  </entry>
+
 </dictionary>
